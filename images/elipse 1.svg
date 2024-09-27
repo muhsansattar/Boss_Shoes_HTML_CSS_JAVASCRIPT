@@ -1,0 +1,26 @@
+<svg width="1408" height="5008" viewBox="0 0 1408 5008" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_4002_19)" filter="url(#filter0_d_4002_19)">
+<circle cx="-387" cy="269" r="966.5" stroke="white" stroke-opacity="0.15" stroke-width="249"/>
+<circle cx="1480" cy="1933" r="966.5" stroke="white" stroke-opacity="0.15" stroke-width="249"/>
+<rect x="-505" y="3134.8" width="719.547" height="3062.05" transform="rotate(-45 -505 3134.8)" fill="url(#paint0_linear_4002_19)" fill-opacity="0.1"/>
+</g>
+<defs>
+<filter id="filter0_d_4002_19" x="0" y="0" width="1408" height="5008" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_4002_19"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_4002_19" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_4002_19" x1="-504.341" y1="3950.85" x2="271.709" y2="3927.16" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_4002_19">
+<rect width="1400" height="5000" fill="white" transform="translate(4)"/>
+</clipPath>
+</defs>
+</svg>
